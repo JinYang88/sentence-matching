@@ -1,0 +1,9 @@
+env/
+data/
+*.tsv
+*.bin
+*.txt
+*.pth
+*.csv
+*.save
+*.pt
